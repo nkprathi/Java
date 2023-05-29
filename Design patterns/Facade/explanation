@@ -1,1 +1,3 @@
 facade encapsulates a complex subsystem behind a simple interface. It hides much of the complexity and makes the subsystem easy to use.
+The facade pattern is appropriate when we have a complex system that we want to expose to clients in a simplified way.
+Its purpose is to hide internal complexity behind a single interface that appears simple from the outside.
